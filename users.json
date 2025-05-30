@@ -1,12 +1,22 @@
 {
   "example": {
-    "secret": "TOLRTAP72Q4X52ZQNQ3X6NFGXFFZ62V56AQVXNGSCI6JLJZ2WJLQ====",
+    "secret": "JCLQAVESY7JUFZSOHXSXW65K4CHZ6VEL",
     "recovery_codes": [
-      "I3XWNTC4",
-      "5JNUUBIY",
-      "GVBZIOEA",
-      "IAR6LQAF",
-      "QADW2VZY"
+      "Y2MYFGMT",
+      "JKI2CA7W",
+      "R77CF5UN",
+      "3V2U65NN",
+      "HNWM7FHN"
+    ]
+  },
+  "new": {
+    "secret": "OLXMMJ4NASATUNEIVXUZEZE6WFX5YICI",
+    "recovery_codes": [
+      "4K3JU2UF",
+      "KLKDKQ3R",
+      "6WW4WQLC",
+      "JMVDD2RF",
+      "QRRL5MW4"
     ]
   }
 }
